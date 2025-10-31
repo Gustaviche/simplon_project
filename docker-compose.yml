@@ -1,0 +1,15 @@
+services:
+  db:
+    image: nouchka/sqlite3
+    container_name: db
+    volumes:
+      - ./data:/data
+    entrypoint: ["sh", "-c", "tail -f /dev/null"]
+
+  app:
+    build: .
+    container_name: app
+    volumes:
+      - ./data:/data
+    depends_on:
+      - db
