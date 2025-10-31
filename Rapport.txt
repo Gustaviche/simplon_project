@@ -1,0 +1,29 @@
+Le chiffre d’affaires total sur la période étudiée s’élève à : 5 268,78 €
+
+Produit	    Total ventes	Chiffre d’affaires (€)
+Produit D	21	            1 679,79
+Produit E	35	            1 399,65
+Produit A	24	            1 199,76
+Produit B	27	            539,73
+Produit C	15	            449,85
+
+Le produit D est le plus rentable en termes de CA par unité vendue.
+Le produit E a le plus grand nombre d’unités vendues, mais génère moins de chiffre d’affaires que D.
+
+Ville	    Total ventes	Chiffre d’affaires (€)
+Lyon	    21	            1 059,79
+Marseille	27	            1 009,73
+Bordeaux	19	            829,81
+Paris	    20	            799,80
+Nantes	    17	            739,83
+Strasbourg	11	            579,89
+Lille	    7	            249,93
+
+Lyon et Marseille représentent les villes avec le plus gros volume de ventes et de chiffre d’affaires.
+Lille affiche le plus faible chiffre d’affaires et le plus petit nombre de ventes, indiquant un potentiel de croissance dans cette zone.
+
+Conclusion
+
+Le chiffre d’affaires total est concentré sur quelques produits et villes.
+Les produits D et E et les villes Lyon et Marseille sont des axes prioritaires pour le développement des ventes.
+Les villes avec un faible CA pourraient faire l’objet d’actions marketing ciblées pour améliorer les ventes.
